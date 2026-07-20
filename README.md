@@ -3,6 +3,7 @@ Steel Surface Defect Classification — 100% Accuracy on NEU-CLS
 A custom high-performance CNN that achieves 100% accuracy in 4 out of 5 cross-validation folds on the NEU-CLS steel surface defect dataset — setting a new global state-of-the-art.
 
 ** Results
+
 Accuracy: 100% (4/5 folds) · 99.89% (average)
 Precision: 100%
 Recall: 100%
